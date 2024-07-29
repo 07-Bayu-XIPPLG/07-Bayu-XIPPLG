@@ -1,0 +1,188 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.garong{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    width: 100%;
+    height: 80px;
+    background-color: rgba(227, 35, 32, 0.685);
+}
+
+.list{
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    background-color: transparent;
+    display:flex;
+}
+
+.list a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    color: blue;
+}
+
+.logo h2{
+    font-size: 30px;
+    color: gold;
+    margin-left: 20px;
+}
+
+.logo img{
+    width: 80px;
+    align-items: center;
+    margin-left: 5px;
+    border-radius: 100px;
+}
+
+.logo {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+}
+
+.foto img{
+    width: 100%;
+    height: 500px;
+    
+    
+}
+
+h1{
+    color: rgb(28, 28, 255);
+    font-size: 50px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+
+
+.wrap{
+    width: 100%;
+    height:  350px;
+    background-color: rgba(242, 67, 19, 0.164);
+    
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+h3{
+    margin-left: 20px;
+}
+
+
+
+.healt{
+    width: 200px;
+    height: 250px;
+    background-color: rgba(255, 255, 255, 0.719);
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.gambar{
+    width: 100%;
+    height: 70%;
+    background-color: rgba(220, 133, 11, 0.454);
+    background-size: cover;
+    background-position: center;
+}
+
+.gambar img{
+    height: 100%;
+    width: 100%;
+    
+}
+.gambar h4{
+    font-size: 20px;
+    color: black;
+}
+
+.daftar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#contact{
+    margin-top: 5px ;
+    margin-bottom: 30px;
+  }
+  
+  .coi  {
+    width: 100%;
+    position:relative;
+    display: flex;
+    flex-wrap: wrap;
+    
+    background-color: rgba(235, 136, 50, 0.541);
+  }
+  
+  .cihuy{
+    width:400px;
+    margin-left: 200px;
+  }
+
+  h5 {
+    color:#000000;
+    margin-bottom: 5px;
+    font-size: 15px;
+
+
+  }
+  
+  h4{
+    font-family: 'comic sans ms';
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+    line-height: 70px;
+  }
+
+.footer {
+    background-color: #544344d6;
+    color: white;
+    
+    padding: 20px;
+    position: flex;
+    width: 100%;
+    display: flex;
+    position:relative;
+    
+    flex-wrap: wrap;
+}
+
+.footer a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
